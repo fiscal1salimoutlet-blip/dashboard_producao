@@ -1,0 +1,2 @@
+
+web: gunicorn dashboard_producao:app
