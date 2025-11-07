@@ -1,0 +1,7 @@
+dash==2.17.1
+pandas==2.2.2
+plotly==5.22.0
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.30
+gunicorn==22.0.0
+
